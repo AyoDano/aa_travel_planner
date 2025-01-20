@@ -1,5 +1,4 @@
 import 'dart:developer';
-
 import 'package:aa_travel_planner/main.dart';
 
 class FavoritesRepository {

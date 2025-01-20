@@ -1,7 +1,7 @@
-import 'package:aa_travel_planner/favorites_details_screen.dart';
-import 'package:aa_travel_planner/favorites_repository.dart';
+import 'package:aa_travel_planner/screens/favorites_details_screen.dart';
+import 'package:aa_travel_planner/repositories/favorites_repository.dart';
 import 'package:flutter/material.dart';
-import 'main.dart';
+import '../main.dart';
 
 class FavoriteCard extends StatelessWidget {
   const FavoriteCard({
